@@ -1,10 +1,26 @@
-### Hi there 👋
+## 🦉 Hello There!!
 
-<!--
-**Darowl/Darowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm a self taught programmer who still try to understand how a computer works. But, in the meantime, I'm working in my programming skills and building things. So, be patient to watch my next projects.
+</p>
 
-You can also find me in:
-I'm a self taught programmer who still try to understand how a computer works. But, in the meantime, I make projects in my free time.
+---
+
+### Lenguages and Tools 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git" />
+  </a>
+</p>
+
+--- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darowl&layout=compact)](https://github.com/Darowl/github-readme-stats)
+
+---
+
+### You can also find me in:
 
 <p>
   <a href="https://twitter.com/DarowlDev">
@@ -16,14 +32,3 @@ I'm a self taught programmer who still try to understand how a computer works. B
   </a>
 </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
