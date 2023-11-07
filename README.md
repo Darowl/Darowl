@@ -27,8 +27,6 @@ I'm a self taught programmer who still try to understand how a computer works. B
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   
-  <a href="https://codepen.io/Darowl">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
-  </a>
+
 </p>
 
